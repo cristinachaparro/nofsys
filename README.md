@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🗓 Localization Project Manager looking for a change
 - 👩🏻‍💻 Front-end developer in progress
+- 🖋 Passionate writer
 - 📚 Bookworm
-- 🖋 Avid writer / sci-fi and fantasy are my passion!
-- 🎞 Film photography lover
+- 🎞 Photography lover
